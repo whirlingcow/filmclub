@@ -1,6 +1,6 @@
 @extends('layouts.main')
 
 @section('content')
-	Homepage
+	Homepage !!!
 
 @stop
